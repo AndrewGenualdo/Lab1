@@ -1,0 +1,18 @@
+# ninja log v5
+0	281	7279981710220016	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+3	283	7279981710239963	CMakeFiles/Lab1.dir/functions.cpp.obj	fa0c9dde764834f5
+283	357	7279981710937283	Lab1.exe	e83b5a04d2b507dd
+2	280	7279983957833973	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+4	283	7279983957874257	CMakeFiles/Lab1.dir/functions.cpp.obj	fa0c9dde764834f5
+283	358	7279983958588489	Lab1.exe	e83b5a04d2b507dd
+2	263	7279984006937801	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+263	338	7279984007657266	Lab1.exe	e83b5a04d2b507dd
+1	280	7279987212437631	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+4	286	7279987212488108	CMakeFiles/Lab1.dir/functions.cpp.obj	fa0c9dde764834f5
+287	370	7279987213307349	Lab1.exe	e83b5a04d2b507dd
+2	275	7279988153440934	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+4	283	7279988153530701	CMakeFiles/Lab1.dir/functions.cpp.obj	fa0c9dde764834f5
+284	359	7279988154255082	Lab1.exe	e83b5a04d2b507dd
+1	279	7279988518941777	CMakeFiles/Lab1.dir/lab1.cpp.obj	5a3ce7e0aabd9a11
+4	282	7279988518982330	CMakeFiles/Lab1.dir/functions.cpp.obj	fa0c9dde764834f5
+283	355	7279988519663042	Lab1.exe	e83b5a04d2b507dd
